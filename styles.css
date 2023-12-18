@@ -7,12 +7,14 @@
 }
 
 
+
 .img1 {
     height: 100px;
     border-radius: 20px;
     margin: 15px;
-    background-color: yellowgreen;
+    cursor: pointer;
 }
+
 
 
 .container {
@@ -28,12 +30,45 @@
     background-color: brown;
     padding: 20px;
     border-radius: 25px;
+    color: white;
+    font-size: 30px;
+    font-weight: 30px;
+    cursor: pointer;
 }
+
+
 
 .head1 {
    color: white;
    margin-top: 50px;
-   margin-left: 405px;
+   margin-left: 390px;
    font-size: 60px;
    font-family: 50px;
+}
+
+
+
+.para1 {
+    margin-top: 90px;
+    margin-left: 250px;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    width: 480px;
+}
+
+
+
+.img {
+    height: 60px;
+    border-radius: 30px;
+}
+
+
+.para2 {
+    margin-top: 5px;
+    margin-left: 250px;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder
 }

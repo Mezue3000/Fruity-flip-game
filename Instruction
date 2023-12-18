@@ -1,0 +1,13 @@
+Step-------> Click on any of the fruit boxes to select, computer will randomly select its own fruit box.
+Then the selected fruit boxes will be compared to determine result(win-loss-tie)...
+
+
+NB---------> Apple + Strawberry{Win}
+             Lemon + Strawberry{Loss}
+             Lemon + Apple{win}
+
+
+
+             Lemon + Lemon{Tie}
+             Apple + Apple{Tie}
+             Strawberry + Strawberry{Tie}
