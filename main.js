@@ -71,7 +71,7 @@ function pickMove (playermove) {
   
    //Update the result    
        stephy.innerHTML = `computermove <img src="Images/${picker}.jpg" class="img">
-       <img src="Images/${playermove}.jpg" class="img"> player ${result}-------------------------------
+       <img src="Images/${playermove}.jpg" class="img"> player ${result}
        wins:${score.wins}, losses:${score.losses}, ties:${score.ties}`
 
 };   
